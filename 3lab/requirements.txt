@@ -1,0 +1,11 @@
+alembic==1.14.1
+fastapi==0.115.12
+pydantic==2.10.6
+PyJWT==2.9.0
+python-multipart==0.0.20
+SQLAlchemy==2.0.39
+uvicorn[standard]==0.33.0
+celery==5.5.2
+redislite==6.2.912183
+websocket-client==1.8.0
+requests==2.32.3
